@@ -1,4 +1,4 @@
-# Requisitos funcionais do software
+### Requisitos funcionais do software
 
 Abaixo estão os requisitos funcionais do Projeto 1 conforme discutido com as áreas de
 negócio e resultado do levantamento de requisitos.

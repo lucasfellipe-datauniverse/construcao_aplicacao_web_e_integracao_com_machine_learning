@@ -8,7 +8,7 @@ benefícios adequadamente. Uma disparidade de informações e expectativas pode 
 negociações prolongadas, insatisfação e, em última instância, a dificuldades na contratação e
 retenção de talentos.
 
-# Problema
+### Problema
 
   A falta de uma ferramenta acessível e confiável para prever salários de desenvolvedores
 com base em variáveis como localização geográfica, nível educacional, função específica dentro
@@ -17,7 +17,7 @@ contratação e na gestão de carreiras. Isso resulta em um desequilíbrio no me
 de tecnologia, onde nem empregadores nem empregados têm clareza suficiente sobre as
 expectativas salariais realistas.
 
-# Objetivo
+### Objetivo
 
   Desenvolver uma aplicação web integrada com um modelo de Machine Learning que
 possa prever salários de desenvolvedores com base em características chave, incluindo país, nível
