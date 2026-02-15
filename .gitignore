@@ -1,4 +1,12 @@
 *.csv
+
+# arquivos python
 __pycache__/
 *.py[cod]
 *$py.class
+
+# ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
