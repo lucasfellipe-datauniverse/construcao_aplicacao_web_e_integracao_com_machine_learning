@@ -1,12 +1,8 @@
 *.csv
-
-# arquivos python
 __pycache__/
 *.py[cod]
 *$py.class
+appwebml/
 
-# ambientes virtuais
-venv/
-.venv/
-env/
-ENV/
+
+
