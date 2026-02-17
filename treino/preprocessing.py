@@ -29,5 +29,3 @@ def inverse_process(y_pred_transformed, power_t):
     # retorna o y previsto ao normal para interpretacao             
     y_normal = power_t.inverse_transform(y_pred_transformed.reshape(-1, 1)).ravel()
     return y_normal
-
-

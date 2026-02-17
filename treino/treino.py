@@ -16,7 +16,7 @@ import mlflow
 import pickle
 
 #%%
-base = pd.read_csv(r'C:\dtf\CSs\DS_Academy\projetos\aplicacao_web_integracao_c_ml_-disc_1_eng_ml\dados\base.csv')
+base = pd.read_csv(r'dados/base.csv')
 base.head()
 
 #%%
